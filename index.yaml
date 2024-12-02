@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flask-contacts:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-12-02T23:23:09.6892686+02:00"
+    description: Flask contacts custom chart
+    digest: 1625236152088cf34ba3ae1323a245f533ba39d6bbdf455446aa6e299a5da3bb
+    name: flask-contacts
+    type: application
+    urls:
+    - https://idror67.github.io/flask-contact-chart/flask-contacts-1.0.1.tgz
+    version: 1.0.1
+generated: "2024-12-02T23:23:09.6892686+02:00"
